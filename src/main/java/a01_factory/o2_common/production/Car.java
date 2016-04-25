@@ -1,4 +1,4 @@
-package a01_factory.simple.production;
+package a01_factory.o2_common.production;
 
 /**
  * 抽象产品角色

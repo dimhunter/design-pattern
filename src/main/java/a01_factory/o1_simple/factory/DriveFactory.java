@@ -1,9 +1,9 @@
-package a01_factory.simple.factory;
+package a01_factory.o1_simple.factory;
 
-import a01_factory.simple.production.Audi;
-import a01_factory.simple.production.Benz;
-import a01_factory.simple.production.Bmw;
-import a01_factory.simple.production.Car;
+import a01_factory.o1_simple.production.Audi;
+import a01_factory.o1_simple.production.Benz;
+import a01_factory.o1_simple.production.Bmw;
+import a01_factory.o1_simple.production.Car;
 
 /**
  * Created by shenluguo on 2015/6/9.

@@ -1,8 +1,8 @@
-package a01_factory.common;
+package a01_factory.o2_common;
 
-import a01_factory.common.factory.BenzDriver;
-import a01_factory.common.factory.Driver;
-import a01_factory.common.production.Car;
+import a01_factory.o2_common.factory.BenzDriver;
+import a01_factory.o2_common.factory.Driver;
+import a01_factory.o2_common.production.Car;
 
 /**
  * Created by shenluguo on 2015/6/9.

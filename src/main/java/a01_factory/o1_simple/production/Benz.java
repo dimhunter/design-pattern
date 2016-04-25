@@ -1,4 +1,4 @@
-package a01_factory.common.production;
+package a01_factory.o1_simple.production;
 
 /**
  * Created by shenluguo on 2015/6/9.

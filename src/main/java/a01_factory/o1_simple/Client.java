@@ -1,7 +1,7 @@
-package a01_factory.simple;
+package a01_factory.o1_simple;
 
-import a01_factory.simple.factory.DriveFactory;
-import a01_factory.simple.production.Car;
+import a01_factory.o1_simple.factory.DriveFactory;
+import a01_factory.o1_simple.production.Car;
 
 /**
  * Created by shenluguo on 2015/6/9.
